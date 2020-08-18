@@ -1,5 +1,5 @@
-import cedula from "cedula-web";
-import bpls from "bpls-web";
+import cedula from "kiosk-cedula";
+import bpls from "kiosk-bpls";
 
 const plugins = [
     cedula,
